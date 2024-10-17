@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+#translator-app {
+    padding: 20px;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 300px;
+}
+
+select, button {
+    margin-left: 10px;
+}
+
+.translated-output {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #333;
+}
